@@ -50,7 +50,7 @@
         android:text="Enjoy Eating"
         android:textColor="#3d33a8"
         android:textSize="40sp"
-        android:textStyle=""
+        android:textStyle="bold"
         android:fontFamily="sans-serif-condensed-light"
         android:letterSpacing=""
         app:layout_constraintEnd_toEndOf="parent"
