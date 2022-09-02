@@ -5,8 +5,12 @@
       <map>
         <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/white_button.xml" value="0.194" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_main2.xml" value="0.12972972972972974" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_categories.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_favorites.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/layout/result.xml" value="0.1627379873073436" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/FoodApp/app/src/main/res/menu/btm_mnu.xml" value="0.16417272338606242" />
       </map>
     </option>
   </component>
